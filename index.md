@@ -4,7 +4,7 @@ I started this project 2020 to develop the OVMS modul for the
 
 ### VW e-UP
 
-The intial goal was to replace the VW TCU with OVMS and implement as much of the original Volswagen "remote" features of the car as possible.
+The intial goal was to replace the VW TCU with OVMS and implement as much of the original Volkswagen "remote" features of the car as possible.
 
 For me the main focus was on implementing the remote climate control. Therefor I had to go an unusual way by accessing the CAN bus of the car directly.
 
