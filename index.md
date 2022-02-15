@@ -1,6 +1,6 @@
 ## Welcome to my OVMS clone
 
-I strated this project 2020 to develop the OVMS modul for the
+I started this project 2020 to develop the OVMS modul for the
 
 ### VW e-Up
 
