@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to my OVMS clone
 
-You can use the [editor on GitHub](https://github.com/devmarxx/Open-Vehicle-Monitoring-System-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I strated this project 2020 to develop the OVMS modul for the
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### VW e-Up
 
-### Markdown
+The intial goal was to replace the VW TCU with OVMS and implement as much of the original VW "remote" features of the car as possible.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For me the main focus was on implementing the remote climate control. Therefor I had to go an unusual way by accessing the CAN bus of the car directly.
 
-```markdown
-Syntax highlighted code block
+I managed that via the original T26A plug of the OCU.
 
-# Header 1
-## Header 2
-### Header 3
+Later in the project other devs started working on direct OBD access to get more valuable data from the car, so with that team we managed to build a serious, fully working OVMS modul for the e-Up and its siblings.
 
-- Bulleted
-- List
+I surely learned a lot about the CAN bus and car connectivity.
 
-1. Numbered
-2. List
+I hope the code is usefull for future projects.
 
-**Bold** and _Italic_ and `Code` text
+Enjoy :-)
 
-[Link](url) and ![Image](src)
-```
+devmarxx
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devmarxx/Open-Vehicle-Monitoring-System-3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
