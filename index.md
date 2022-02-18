@@ -1,4 +1,4 @@
-## Welcome to my OVMS clone
+## Welcome to my OVMS fork
 
 I started this project 2020 to develop the OVMS modul for the
 
